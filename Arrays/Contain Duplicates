@@ -1,3 +1,6 @@
+# Problem: Contain Duplicates
+# Link: https://leetcode.com/problems/contains-duplicate
+
 #BRUTE
 def contains_duplicates(nums):
     n = len(nums)
