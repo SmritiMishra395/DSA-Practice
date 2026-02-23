@@ -19,4 +19,4 @@ class Solution:
             if complement in hashmap:
                 return [hashmap[complement], i]
 
-            hashmap[nums[i]] = i
+            hashmap[nums[i]] = i   
