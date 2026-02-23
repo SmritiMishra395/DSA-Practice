@@ -18,4 +18,4 @@ def contains_duplicates(nums):
             return True
         else:
             seen.add(nums[i])
-    return False
+    return False   
