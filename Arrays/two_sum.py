@@ -1,3 +1,6 @@
+# Problem: Two Sum
+# Link: https://leetcode.com/problems/two-sum/
+
 #BRUTE
 def fun(arr,target):
     n= len(arr)
